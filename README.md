@@ -175,12 +175,7 @@ This project demonstrates foundational skills in:
 
 It can serve as a starting point for a coursework submission, a machine learning portfolio project, or a classroom demonstration of SVM classification.
 
-## ⚠️ Limitations
-
-- The datasets are manually constructed rather than collected from operational systems.
-- The examples do not represent validated battery, vehicle, fuel, or tyre behavior.
-- Accuracy alone does not measure the cost of false alarms or missed detections.
-- Interactive `input()` cells are intended for notebook use and are not a deployed application.
++-
 
 ## 🔭 Future Improvements
 
@@ -191,10 +186,6 @@ It can serve as a starting point for a coursework submission, a machine learning
 - Track class-specific costs and calibration metrics.
 - Add tests and a non-interactive command-line prediction interface.
 - Save trained models with versioned metadata for reproducible inference.
-
-## 📄 License
-
-This project is provided for educational and demonstration purposes. Add a repository license file if you intend to distribute or reuse the project under a specific open-source license.
 
 ## 👤 Author
 
